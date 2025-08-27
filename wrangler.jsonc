@@ -1,0 +1,7 @@
+{
+  "name": "activated-win",
+  "compatibility_date": "2025-08-27",
+  "assets": {
+    "directory": "./build"
+  }
+}
